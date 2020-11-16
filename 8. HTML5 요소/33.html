@@ -21,5 +21,16 @@
         여러분이 자주 들리는 사이트의 URL 주소를 입력해 주세요 : <input type="url" name="url"><br><br>
         <input type="submit" value="novalidate 방식으로 전송" formnovalidate><br>
     </form>
+    <form action="/examples/media/request.php">
+        사용자 이름을 입력해주세요 : <input type="text" name="username"><br><br>
+        <input type="submit" value="응답 화면을 새창에 표시" formtarget="_blank"><br>
+    </form>
+    <form action="/examples/media/request.php">
+        <input list="lectures" name="lecture">
+        <datalist id="lectures">
+            <option value="HTML">
+            <option value="CSS">
+        </datalist>
+    </form>
 </body>
 </html>
