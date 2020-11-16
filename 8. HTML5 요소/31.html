@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form action="/examples/media/request.php">
+        <input list="lectures" name="lecture">
+        <datalist id="lectures">
+            <option value="HTML">
+            <option value="CSS">
+            <option value="JAVA">
+            <option value="C++">
+        </datalist>
+        <input type="submit" value="전송">
+    </form>
+    <form action="/examples/media/request.php">
+        사용자 : <br>
+        <input type="text" name="username"><br>
+        암호화방법 : <br>
+        <keygen name="security"><br>
+    </form>
+    <form action="/examples/media/request.php"
+          oninput="total.value=parseInt(value01.value)/parseInt(value02.value)">
+        <input type="number" id="value01" name="input01" value="20">
+        /
+        ( 0
+        <input type="range" id="value02" name="input02" value="50" min="0" max="100">
+        100 )
+        =
+        <output name="total" for="value01 value02"></output><br><br>
+    </form>
+</body>
+</html>
