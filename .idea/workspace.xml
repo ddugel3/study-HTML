@@ -35,7 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../스터디 - reactijs" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -68,7 +68,8 @@
       <workItem from="1605192991879" duration="738000" />
       <workItem from="1605362276904" duration="2020000" />
       <workItem from="1605421355043" duration="844000" />
-      <workItem from="1605538067343" duration="626000" />
+      <workItem from="1605538067343" duration="1265000" />
+      <workItem from="1605539355739" duration="18000" />
     </task>
     <servers />
   </component>
@@ -135,6 +136,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/1920.87.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605027382739" />
+    <state x="268" y="275" key="FileChooserDialogImpl" timestamp="1605539369429">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="268" y="275" key="FileChooserDialogImpl/1920.87.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1605539369429" />
     <state x="0" y="164" key="SettingsEditor" timestamp="1605018556613">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
